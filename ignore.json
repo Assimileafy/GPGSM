@@ -1,0 +1,20 @@
+{
+    "ignore_directories": [
+        "ModLoader64",
+        "ModLoader64-GUI", 
+        "ModLoader64-config",
+        ".modloader64"
+    ],
+    "ignore_files": [
+        "ModLoader64.exe",
+        "ModLoader64-GUI.exe",
+        "modloader64-config.json",
+        "modloader64.log",
+        "icudtl.dat",
+        "snapshot_blob.bin",
+        "v8_context_snapshot.bin",
+        "flipscfg.bin",
+        "ram.bin",
+        "pif2.dat"
+    ]
+}

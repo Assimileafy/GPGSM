@@ -1,0 +1,53 @@
+{
+    "emulator_paths": {
+        "mGBA": "",
+        "VBA": "",
+        "FCEUX": "",
+        "SNES9x": "",
+        "Fusion": "",
+        "ePSXe": "",
+        "PCSX2": "",
+        "Project64": "",
+        "Dolphin": "",
+        "ZSNES": "",
+        "DeSmuME": "",
+        "DraStic": "",
+        "PPSSPP": "",
+        "NullDC": "",
+        "Citra": "",
+        "RPCS3": "",
+        "Vita3K": "",
+        "Yuzu": ""
+    },
+    "active_systems": {
+        "NES": true,
+        "SNES": true,
+        "N64": true,
+        "GameCube": true,
+        "Wii": true,
+        "Switch": true,
+        "PS1": true,
+        "PS2": true,
+        "PS3": true,
+        "PSP": true,
+        "PS Vita": true,
+        "Game Boy": true,
+        "GBC": true,
+        "GBA": true,
+        "DS": true,
+        "3DS": true,
+        "Sega Genesis": true,
+        "Dreamcast": true,
+        "Saturn": true,
+        "PC": true,
+        "Arcade": true
+    },
+    "default_catalog": "All",
+    "auto_scan_directories": [],
+    "backup_settings": {
+        "enabled": false,
+        "backup_directory": "",
+        "backup_frequency_days": 7,
+        "keep_backups": 3
+    }
+}
